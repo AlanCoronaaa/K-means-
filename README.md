@@ -24,3 +24,6 @@ Los outliers pueden afectar la posición de los centros y llevar a una mala repr
 6. *¿Qué puedes decir de los datos basándose en los centros?*
 
 Los centros pueden proporcionar información sobre la estructura de los datos y los patrones que se pueden encontrar en ellos. Por ejemplo, si los centros se agrupan en torno a ciertas variables, puede indicar que esas variables son importantes para la segmentación de los datos. Los centros también pueden ayudar a identificar patrones y tendencias en los datos que no sean inmediatamente aparentes.
+
+Conclusión
+En este análisis, hemos utilizado el algoritmo k-means para segmentar los datos de vendedores de Facebook. Los centros obtenidos pueden ser representativos de los datos y proporcionar información sobre la estructura de los datos. Sin embargo, es importante considerar la elección del valor de k y la presencia de outliers en los datos.
